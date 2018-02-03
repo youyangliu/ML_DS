@@ -1,6 +1,6 @@
 Team members: Chang Ding, cd2959, Zhaoyue Bi, zb2225, Youyang Liu, yl3767
 
-hw1_p1.py: The source code of hw1 problem 1. 
+"hw1_p1.py": The source code of hw1 problem 1. 
 	Some main variables:
 		- n_list: the list which stores n’s value
 			eg. [1000, 2000, 4000, 8000]
@@ -20,4 +20,4 @@ hw1_p1.py: The source code of hw1 problem 1.
 		- test_n_std/train_n_std: the list which stores the error standard deviation of each n
 			eg. [0.0029370733732748317, 0.0031984996482726088, 0.0018364367672206966, 0.0019043108989868229]
 
-hw_1p1.ipynb: Show the plot and variables result in hw1_p1.py.
+"hw_1p1.ipynb": Show the plot and variables result in hw1_p1.py.
